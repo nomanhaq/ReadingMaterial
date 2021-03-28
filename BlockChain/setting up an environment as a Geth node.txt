@@ -1,0 +1,1 @@
+geth --datadir "D:\myeth\chaindata" --rpc --rpcapi "eth,web3,miner,admin,personal,net" --rpccorsdomain "*" --nodiscover --networkid 15
